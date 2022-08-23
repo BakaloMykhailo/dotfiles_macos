@@ -1,3 +1,3 @@
 # dotfiles_macos
 
-I'm learning about dotfiles!
+I'm learning about dotfiles again!
